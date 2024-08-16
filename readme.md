@@ -2,7 +2,7 @@
 
 [![Greasy Fork Version](https://img.shields.io/greasyfork/v/503807)
 ![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/503807)](https://greasyfork.org/en/scripts/503807-pretendo-cemu-files-gen)
-[![Static Badge](https://img.shields.io/badge/License-Unlicense-43A047)](https://github.com/CorySanin/pretendo-cemu-files-gen/?tab=Unlicense-1-ov-file)
+[![GitHub License](https://img.shields.io/github/license/CorySanin/pretendo-cemu-files-gen)](https://github.com/CorySanin/pretendo-cemu-files-gen/?tab=Unlicense-1-ov-file)
 
 This userscript adds back the button to download account data (account.dat) from Pretendo.Network that can be used with Cemu.
 You still need a seeprom.bin and otp.bin from an actual Wii U, but there are still cases where this tool can come in handy.
