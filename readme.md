@@ -1,7 +1,7 @@
 # pretendo-cemu-files-gen
 
-[![Greasy Fork Version](https://img.shields.io/greasyfork/v/503807)
-![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/503807)](https://greasyfork.org/en/scripts/503807-pretendo-cemu-files-gen)
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/503807)](https://greasyfork.org/en/scripts/503807-pretendo-cemu-files-gen)
+[![Greasy Fork Downloads](https://img.shields.io/greasyfork/dt/503807)](https://greasyfork.org/en/scripts/503807-pretendo-cemu-files-gen)
 [![GitHub License](https://img.shields.io/github/license/CorySanin/pretendo-cemu-files-gen)](https://github.com/CorySanin/pretendo-cemu-files-gen/?tab=Unlicense-1-ov-file)
 
 This userscript adds back the button to download account data (account.dat) from Pretendo.Network that can be used with Cemu.
